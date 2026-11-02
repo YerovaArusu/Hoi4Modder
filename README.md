@@ -7,7 +7,7 @@
 A modern, fast, and cross-platform modding suite for *Hearts of Iron IV*.
 Built with Kotlin Multiplatform and Jetpack Compose, this tool replaces tedious text-file editing and the instable in-game Nudge tool with a clean, IDE-like workspace.
 
-![HoI4 Modder Main Interface](assets/assets/example_screenshot.png)
+![HoI4 Modder Main Interface](assets/example_screenshot.png)
 
 ## Features
 
