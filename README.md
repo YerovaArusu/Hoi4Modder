@@ -1,4 +1,4 @@
-# 🌍 HoI4 Modder Studio V2
+# 🌍 HoI4 Modder Studio
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF.svg?logo=kotlin)](https://kotlinlang.org/)
